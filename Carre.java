@@ -29,7 +29,7 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>JAVA/rectangle.java at master · lordedem/JAVA</title>
+  <title>JAVA/Carre.java at master · lordedem/JAVA</title>
     <meta name="description" content="Contribute to lordedem/JAVA development by creating an account on GitHub.">
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
@@ -39,10 +39,10 @@
     <meta property="og:image" content="https://avatars3.githubusercontent.com/u/65088542?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="lordedem/JAVA" /><meta property="og:url" content="https://github.com/lordedem/JAVA" /><meta property="og:description" content="Contribute to lordedem/JAVA development by creating an account on GitHub." />
 
   <link rel="assets" href="https://github.githubassets.com/">
-  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6NTI3NzYwNTE4OjYxZDQzZTRiMWMwZGRmOTU0MTVhYWRjNWZhNjkzODYxYTM2MTJmNDA0YjBkNGJkNDMyZGQ5NTI3MmI5NDE3YjE=--9627456c408b97f3ca234df4134c88929dab74c8">
+  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6NTI3NzYwNTE4OmQ3ODAzYzVlMDg4MzgwOTY5M2MxNDk1MDY4ZjdlNzA4Y2I1MTVhNWE5MzU1MTFkNTU1ZmE4NTFlZTY0OWJhMGI=--9ddde847d868115bcd87017cf4e94a932dfda8a1">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
 
-  <meta name="request-id" content="ED84:1D7FA:2DA033B:420D98A:5EB81A6A" data-pjax-transient="true" /><meta name="html-safe-nonce" content="7680b2da3bd8d888fd453a9b1278828766fe7647" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9sb3JkZWRlbS9KQVZBIiwicmVxdWVzdF9pZCI6IkVEODQ6MUQ3RkE6MkRBMDMzQjo0MjBEOThBOjVFQjgxQTZBIiwidmlzaXRvcl9pZCI6IjgxNTk0MTY3ODI3NDgxMTQ4MzAiLCJyZWdpb25fZWRnZSI6ImFtcyIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-pjax-transient="true" /><meta name="visitor-hmac" content="35b704522b7674109536a5b897d77aa5e3c0a82ece7ec7d5bfa0fa2a8c180b7d" data-pjax-transient="true" />
+  <meta name="request-id" content="ED90:3B9B3:2383B6A:33347EA:5EB81AD6" data-pjax-transient="true" /><meta name="html-safe-nonce" content="7680b2da3bd8d888fd453a9b1278828766fe7647" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9sb3JkZWRlbS9KQVZBIiwicmVxdWVzdF9pZCI6IkVEOTA6M0I5QjM6MjM4M0I2QTozMzM0N0VBOjVFQjgxQUQ2IiwidmlzaXRvcl9pZCI6IjgxNTk0MTY3ODI3NDgxMTQ4MzAiLCJyZWdpb25fZWRnZSI6ImFtcyIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-pjax-transient="true" /><meta name="visitor-hmac" content="ebebf39e84df113460b69217aac02d2883f279c3a523ac8d27434aa4882052b5" data-pjax-transient="true" />
 
 
 
@@ -77,7 +77,7 @@
 
       <meta name="expected-hostname" content="github.com">
 
-      <meta name="js-proxy-site-detection-payload" content="MmZkYTI5ZjlmY2U0ZmQ3YWI5ZDc5ZDU1OTQ2ZDg1M2FjNDQ0YzBhNGZhZTI3NDZiMTA1ZjIyZWIzMDJlOTIwZXx7InJlbW90ZV9hZGRyZXNzIjoiMTU0LjEyNS44MS4xOTEiLCJyZXF1ZXN0X2lkIjoiRUQ4NDoxRDdGQToyREEwMzNCOjQyMEQ5OEE6NUVCODFBNkEiLCJ0aW1lc3RhbXAiOjE1ODkxMjM2OTEsImhvc3QiOiJnaXRodWIuY29tIn0=">
+      <meta name="js-proxy-site-detection-payload" content="ZWI2YzJkYmQwMWNjZGNkMTA0YzRhZGFkNTVjNzZmN2IyYjZlZGIyOWMzNzBjZjg3ZWIxN2U2ZDI0NTQ2ZTQxN3x7InJlbW90ZV9hZGRyZXNzIjoiMTU0LjEyNS44MS4xOTEiLCJyZXF1ZXN0X2lkIjoiRUQ5MDozQjlCMzoyMzgzQjZBOjMzMzQ3RUE6NUVCODFBRDYiLCJ0aW1lc3RhbXAiOjE1ODkxMjM3OTksImhvc3QiOiJnaXRodWIuY29tIn0=">
 
     <meta name="enabled-features" content="MARKETPLACE_PENDING_INSTALLATIONS,GHE_CLOUD_TRIAL,PAGE_STALE_CHECK">
 
@@ -91,7 +91,7 @@
   <meta name="octolytics-dimension-user_id" content="65088542" /><meta name="octolytics-dimension-user_login" content="lordedem" /><meta name="octolytics-dimension-repository_id" content="262640675" /><meta name="octolytics-dimension-repository_nwo" content="lordedem/JAVA" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="262640675" /><meta name="octolytics-dimension-repository_network_root_nwo" content="lordedem/JAVA" /><meta name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" content="false" />
 
 
-    <link rel="canonical" href="https://github.com/lordedem/JAVA/blob/master/rectangle.java" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/lordedem/JAVA/blob/master/Carre.java" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -165,7 +165,7 @@
           spellcheck="false"
           autocomplete="off"
           >
-          <input type="hidden" value="q4m+wooNUeBw5m9CYc/UvKh4JEUiOlYu0TdnhC7KvVH2XpUr/cDK7buoBiA6PYnJyjNF2p27VH09Vnqktjy1Bg==" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+          <input type="hidden" value="0GFrS9EjX4OaRnh07wfu6cIZrWUeMacKK79/4G3MBvWNtkCipu7EjlEIERa09bOcoFLM+qGwpVnH3mLA9ToOog==" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
           <input type="hidden" class="js-site-search-type-field" name="type" >
             <img src="https://github.githubassets.com/images/search-key-slash.svg" alt="" class="mr-2 header-search-key-slash">
 
@@ -316,7 +316,7 @@
       <img class="avatar avatar-user" height="20" width="20" alt="@yzd224" src="https://avatars3.githubusercontent.com/u/62627612?s=60&amp;v=4" />
       yzd224
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="hMbd0wtzxml+MB8fyBE0CNcagvBq0lCqRHKIa/b4ja+Et5CMio4F8lxmcXRi7K0v57aRaLmZmtxpy/uKC68QmA==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="PCdx0upZ1H9X3yNlTxzgCnJiqctn1dh4/a6AdmxV5fI8VjyNa6QX5HWJTQ7l4XktQs66U7SeEg7QF/OXkQJ4xQ==" />
       <button type="submit" class="Header-link mr-0 mr-lg-3 py-2 py-lg-3 border-top border-lg-top-0 border-white-fade-15 d-lg-none btn-link d-block width-full text-left" data-ga-click="Header, sign out, icon:logout" style="padding-left: 2px;">
         <svg class="octicon octicon-sign-out v-align-middle" viewBox="0 0 16 17" version="1.1" width="16" height="17" aria-hidden="true"><path fill-rule="evenodd" d="M12 9V7H8V5h4V3l4 3-4 3zm-2 3H6V3L2 1h8v3h1V1c0-.55-.45-1-1-1H1C.45 0 0 .45 0 1v11.38c0 .39.22.73.55.91L6 16.01V13h4c.55 0 1-.45 1-1V8h-1v4z"></path></svg>
         Sign out
@@ -413,7 +413,7 @@
   " data-team-hovercards-enabled>
   <details class="js-user-status-details details-reset details-overlay details-overlay-dark">
     <summary class="btn-link btn-block link-gray no-underline js-toggle-user-status-edit toggle-user-status-edit "
-      role="menuitem" data-hydro-click="{&quot;event_type&quot;:&quot;user_profile.click&quot;,&quot;payload&quot;:{&quot;profile_user_id&quot;:65088542,&quot;target&quot;:&quot;EDIT_USER_STATUS&quot;,&quot;user_id&quot;:62627612,&quot;originating_url&quot;:&quot;https://github.com/lordedem/JAVA/blob/master/rectangle.java&quot;}}" data-hydro-click-hmac="e9124ad9c9a1f7799df81b412b709642d8927809ed5a02d659de02b4c6744635">
+      role="menuitem" data-hydro-click="{&quot;event_type&quot;:&quot;user_profile.click&quot;,&quot;payload&quot;:{&quot;profile_user_id&quot;:65088542,&quot;target&quot;:&quot;EDIT_USER_STATUS&quot;,&quot;user_id&quot;:62627612,&quot;originating_url&quot;:&quot;https://github.com/lordedem/JAVA/blob/master/Carre.java&quot;}}" data-hydro-click-hmac="9124bb95a123c0193e9189ffda3f04fa843ff664d9c53d49cf1b304fb4a61ac8">
       <div class="d-flex">
         <div class="f6 lh-condensed user-status-header
           d-inline-block v-align-middle
@@ -440,7 +440,7 @@
       </div>
     </summary>
     <details-dialog class="details-dialog rounded-1 anim-fade-in fast Box Box--overlay" role="dialog" tabindex="-1">
-      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="position-relative flex-auto js-user-status-form" action="/users/status?compact=1&amp;link_mentions=0&amp;truncate=1" accept-charset="UTF-8" method="post"><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="5o1G06K+i4JXFXDYjsvgYSjB5Iz9P702e2Q8sd7LDnWAfMzsb0eTBYPRa7pDwnFoV5hzaWZt5ZMyDbgZk0rAyg==" />
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="position-relative flex-auto js-user-status-form" action="/users/status?compact=1&amp;link_mentions=0&amp;truncate=1" accept-charset="UTF-8" method="post"><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="UWc/PE2ddMzrpUON9rEHCEwnoByUvNIEi/1ePktXhF03lrUDgGRsSz9hWO87uJYBM343+Q/uiqHClNqWBtZK4g==" />
         <div class="Box-header bg-gray border-bottom p-3">
           <button class="Box-btn-octicon js-toggle-user-status-edit btn-octicon float-right" type="reset" aria-label="Close dialog" data-close-dialog>
             <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"></path></svg>
@@ -558,17 +558,17 @@
       </li>
       <li class="dropdown-divider" role="none"></li>
         <li>
-          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 30 minutes" value="2020-05-10T15:44:51+00:00">
+          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 30 minutes" value="2020-05-10T15:46:39+00:00">
             in 30 minutes
           </button>
         </li>
         <li>
-          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 1 hour" value="2020-05-10T16:14:51+00:00">
+          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 1 hour" value="2020-05-10T16:16:39+00:00">
             in 1 hour
           </button>
         </li>
         <li>
-          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 4 hours" value="2020-05-10T19:14:51+00:00">
+          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 4 hours" value="2020-05-10T19:16:39+00:00">
             in 4 hours
           </button>
         </li>
@@ -625,10 +625,10 @@
     class="dropdown-item btn-link"
     role="menuitem"
     data-feature-preview-trigger-url="/users/yzd224/feature_previews"
-    data-feature-preview-close-details="{&quot;event_type&quot;:&quot;feature_preview.clicks.close_modal&quot;,&quot;payload&quot;:{&quot;originating_url&quot;:&quot;https://github.com/lordedem/JAVA/blob/master/rectangle.java&quot;,&quot;user_id&quot;:62627612}}"
-    data-feature-preview-close-hmac="20d73cda518e9f78f966b1f09db0fcac65243abc3f59a13d3eb7efc886fef88d"
-    data-hydro-click="{&quot;event_type&quot;:&quot;feature_preview.clicks.open_modal&quot;,&quot;payload&quot;:{&quot;link_location&quot;:&quot;user_dropdown&quot;,&quot;originating_url&quot;:&quot;https://github.com/lordedem/JAVA/blob/master/rectangle.java&quot;,&quot;user_id&quot;:62627612}}"
-    data-hydro-click-hmac="6746450ed416e8c1a5f54fe7750e4085c408bbdc80f2c9c9d9ba4c45d8fd0ae9"
+    data-feature-preview-close-details="{&quot;event_type&quot;:&quot;feature_preview.clicks.close_modal&quot;,&quot;payload&quot;:{&quot;originating_url&quot;:&quot;https://github.com/lordedem/JAVA/blob/master/Carre.java&quot;,&quot;user_id&quot;:62627612}}"
+    data-feature-preview-close-hmac="d772552d8ebc904d7c71dc7a563a244400b533c09aac4c58b0fbf6bae6b8f857"
+    data-hydro-click="{&quot;event_type&quot;:&quot;feature_preview.clicks.open_modal&quot;,&quot;payload&quot;:{&quot;link_location&quot;:&quot;user_dropdown&quot;,&quot;originating_url&quot;:&quot;https://github.com/lordedem/JAVA/blob/master/Carre.java&quot;,&quot;user_id&quot;:62627612}}"
+    data-hydro-click-hmac="41af5802fa1e95492d61ecf0b976589a5e2555f7885abc96cb81c30a1534153b"
   >
     Feature preview
   </button>
@@ -637,12 +637,12 @@
 
     <a role="menuitem" class="dropdown-item" href="https://help.github.com" data-ga-click="Header, go to help, text:help">Help</a>
     <a role="menuitem" class="dropdown-item" href="/settings/profile" data-ga-click="Header, go to settings, icon:settings">Settings</a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="u/vU6Vaz49DwAOB/UPaZr+OTgtSss2bTh7ccWEF0Nra7ipm2104gS9JWjhT6CwCI0z+RTH/4rKWqDm+5vCOrgQ==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="kbHLhEWyEadHzCZMJqRB21eUx1uCXgKISyjbes6CGAiRwIbbxE/SPGWaSCeMWdj8ZzjUw1EVyP5mkaibM9WFPw==" />
       
       <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout" role="menuitem">
         Sign out
       </button>
-      <input type="text" name="required_field_8749" hidden="hidden" class="form-control" /><input type="hidden" name="timestamp" value="1589123691407" class="form-control" /><input type="hidden" name="timestamp_secret" value="36a1d50f27924558891c3e15e64dc7661ee8710258e2f4f5832d9a101b5cd25a" class="form-control" />
+      <input type="text" name="required_field_70dc" hidden="hidden" class="form-control" /><input type="hidden" name="timestamp" value="1589123799296" class="form-control" /><input type="hidden" name="timestamp_secret" value="2fd5401112b147dde20992d9da73c43a5d2fcc5cf7e0fc5a38d46da7631424e0" class="form-control" />
 </form>  </details-menu>
 </details>
 
@@ -699,10 +699,10 @@
       <p class="shelf-lead">
           Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
       </p>
-      <a class="btn btn-primary shelf-cta" target="_blank" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;READ_GUIDE&quot;,&quot;repository_id&quot;:262640675,&quot;originating_url&quot;:&quot;https://github.com/lordedem/JAVA/blob/master/rectangle.java&quot;,&quot;user_id&quot;:62627612}}" data-hydro-click-hmac="853d8f1248dfdf725469ce37260d1e8c35ffc2beee9429b5d3e42349b97000cf" href="https://guides.github.com/activities/hello-world/">Read the guide</a>
+      <a class="btn btn-primary shelf-cta" target="_blank" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;READ_GUIDE&quot;,&quot;repository_id&quot;:262640675,&quot;originating_url&quot;:&quot;https://github.com/lordedem/JAVA/blob/master/Carre.java&quot;,&quot;user_id&quot;:62627612}}" data-hydro-click-hmac="1474a2f34d098ba66281a159df7069d4765d46688fd232297ed3b83137c329cc" href="https://guides.github.com/activities/hello-world/">Read the guide</a>
     </div>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="shelf-dismiss js-notice-dismiss" action="/dashboard/dismiss_bootcamp" accept-charset="UTF-8" method="post"><input type="hidden" name="_method" value="delete" /><input type="hidden" name="authenticity_token" value="jlJJHzWtbrL8s69C6oDyUCfFiyIYck0HR1RibpTx8exMotC7oCUJEecpsxYPJ2OxVjODSKfZAoJJCHBAf2OjmQ==" />
-      <button name="button" type="submit" class="mr-1 close-button tooltipped tooltipped-w" aria-label="Hide this notice forever" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;DISMISS_BANNER&quot;,&quot;repository_id&quot;:262640675,&quot;originating_url&quot;:&quot;https://github.com/lordedem/JAVA/blob/master/rectangle.java&quot;,&quot;user_id&quot;:62627612}}" data-hydro-click-hmac="1b06ee9c3d87415037688a725c44a39dc7cd28c67ab7e2ac2975cd8a9b77f5a2">
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="shelf-dismiss js-notice-dismiss" action="/dashboard/dismiss_bootcamp" accept-charset="UTF-8" method="post"><input type="hidden" name="_method" value="delete" /><input type="hidden" name="authenticity_token" value="Ecic2MUpCr6VFAfkgnDFDXwYRHfJC9tH8GQm1M9fZsTTOAV8UKFtHY6OG7Bn11TsDe5MHXaglML+ODT6JM00sQ==" />
+      <button name="button" type="submit" class="mr-1 close-button tooltipped tooltipped-w" aria-label="Hide this notice forever" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;DISMISS_BANNER&quot;,&quot;repository_id&quot;:262640675,&quot;originating_url&quot;:&quot;https://github.com/lordedem/JAVA/blob/master/Carre.java&quot;,&quot;user_id&quot;:62627612}}" data-hydro-click-hmac="e7470a221e547224651375f4f83a644be15625c3c06bfff1a6be1b966a087f3e">
         <svg aria-label="Hide this notice forever" class="octicon octicon-x v-align-text-top" viewBox="0 0 12 16" version="1.1" width="12" height="16" role="img"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"></path></svg>
 </button></form>  </div>
 </div>
@@ -742,13 +742,17 @@
 
 
 
+    <li hidden>
+      <include-fragment src="/lordedem/JAVA/used_by_count" accept="text/fragment+html">
+</include-fragment>
+    </li>
 
   <li>
     
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-remote="true" class="clearfix js-social-form js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="AOKqqcN6vdHp5NxV9uLkVcWkAqp+X2qY0dgJfQq1KsHSYIMCpf705W+ldDbUSVR1CgPYfGdHwG8xy61VmAHf7w==" />      <input type="hidden" name="repository_id" value="262640675">
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-remote="true" class="clearfix js-social-form js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="+HcIwGzkV/lIw6nlxe1qXiwlAjtDZOHLBE6Lq5v/4aAq9SFrCmAezc6CAYbnRtp+44LY7Vp8SzzkXS+DCUsUjg==" />      <input type="hidden" name="repository_id" value="262640675">
 
       <details class="details-reset details-overlay select-menu float-left">
-        <summary class="select-menu-button float-left btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:262640675,&quot;originating_url&quot;:&quot;https://github.com/lordedem/JAVA/blob/master/rectangle.java&quot;,&quot;user_id&quot;:62627612}}" data-hydro-click-hmac="d5f697c992821b2c1f5a9e34ad5f6d5aaeff3b6b9774a0cb9d0d8883376ec823" data-ga-click="Repository, click Watch settings, action:blob#show">          <span data-menu-button>
+        <summary class="select-menu-button float-left btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:262640675,&quot;originating_url&quot;:&quot;https://github.com/lordedem/JAVA/blob/master/Carre.java&quot;,&quot;user_id&quot;:62627612}}" data-hydro-click-hmac="271c48544fe0dc84fb76b08c8dd0be4a9685fe7ba116fe87244a7e8c0eab1c09" data-ga-click="Repository, click Watch settings, action:blob#show">          <span data-menu-button>
               <svg class="octicon octicon-eye v-align-text-bottom" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.06 2C3 2 0 8 0 8s3 6 8.06 6C13 14 16 8 16 8s-3-6-7.94-6zM8 12c-2.2 0-4-1.78-4-4 0-2.2 1.8-4 4-4 2.22 0 4 1.8 4 4 0 2.22-1.78 4-4 4zm2-4c0 1.11-.89 2-2 2-1.11 0-2-.89-2-2 0-1.11.89-2 2-2 1.11 0 2 .89 2 2z"></path></svg>
               Watch
           </span>
@@ -819,9 +823,9 @@
 
   <li>
       <div class="js-toggler-container js-social-container starring-container ">
-    <form class="starred js-social-form" action="/lordedem/JAVA/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="lmiMfommiLZvCZO6cxP7/FQpxWKanDUd5yiBjCNdw4QArlbnoZh7+eBEiPt/Rb5CM2vfAK5XbV2yEe32ggTBWQ==" />
+    <form class="starred js-social-form" action="/lordedem/JAVA/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="fY6EpZsQ5/XMGc9PT2s1pTgACMlBu0d45ENCgN0T23brSF48sy4UukNU1A5DPXAbX0ISq3VwHzixei76fErZqw==" />
       <input type="hidden" name="context" value="repository"></input>
-      <button type="submit" class="btn btn-sm btn-with-count js-toggler-target" aria-label="Unstar this repository" title="Unstar lordedem/JAVA" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:262640675,&quot;originating_url&quot;:&quot;https://github.com/lordedem/JAVA/blob/master/rectangle.java&quot;,&quot;user_id&quot;:62627612}}" data-hydro-click-hmac="f85cadfae2906ae2a1251b22176ee2bf932cdd594188e24082a53da2973e95dc" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">        <svg height="16" class="octicon octicon-star v-align-text-bottom" vertical_align="text_bottom" viewBox="0 0 14 16" version="1.1" width="14" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"></path></svg>
+      <button type="submit" class="btn btn-sm btn-with-count js-toggler-target" aria-label="Unstar this repository" title="Unstar lordedem/JAVA" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:262640675,&quot;originating_url&quot;:&quot;https://github.com/lordedem/JAVA/blob/master/Carre.java&quot;,&quot;user_id&quot;:62627612}}" data-hydro-click-hmac="0f01f4c24255ed659ad66e26d1d554860282f1e4656ce05efc86289ca9b4acc3" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">        <svg height="16" class="octicon octicon-star v-align-text-bottom" vertical_align="text_bottom" viewBox="0 0 14 16" version="1.1" width="14" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"></path></svg>
 
         Unstar
 </button>        <a class="social-count js-social-count" href="/lordedem/JAVA/stargazers"
@@ -829,9 +833,9 @@
            0
         </a>
 </form>
-    <form class="unstarred js-social-form" action="/lordedem/JAVA/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="55xbxdiQOhQnXU7UwmuxKCxgRybHXtM+oBMeiS14vKzgJu1EXDERMAbMRfj3NGG7O17Pqeo20CWwhMErMSd4Jg==" />
+    <form class="unstarred js-social-form" action="/lordedem/JAVA/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="ropXsWlqnQYvg1+UAglBZaAI3DgOK/fdZWRkb6wBroqpMOEw7cu2Ig4SVLg3VpH2tzZUtyND9MZ187vNsF5qAA==" />
       <input type="hidden" name="context" value="repository"></input>
-      <button type="submit" class="btn btn-sm btn-with-count js-toggler-target" aria-label="Unstar this repository" title="Star lordedem/JAVA" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:262640675,&quot;originating_url&quot;:&quot;https://github.com/lordedem/JAVA/blob/master/rectangle.java&quot;,&quot;user_id&quot;:62627612}}" data-hydro-click-hmac="34b05e1c287ed33a5df920c53c414db96c7a739212a883cb03095b360f4eba68" data-ga-click="Repository, click star button, action:blob#show; text:Star">        <svg height="16" class="octicon octicon-star v-align-text-bottom" vertical_align="text_bottom" viewBox="0 0 14 16" version="1.1" width="14" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"></path></svg>
+      <button type="submit" class="btn btn-sm btn-with-count js-toggler-target" aria-label="Unstar this repository" title="Star lordedem/JAVA" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:262640675,&quot;originating_url&quot;:&quot;https://github.com/lordedem/JAVA/blob/master/Carre.java&quot;,&quot;user_id&quot;:62627612}}" data-hydro-click-hmac="e1d91fd19c80e21a4ecfb14e92e127c1abb642c345d6da779bee80d058890667" data-ga-click="Repository, click star button, action:blob#show; text:Star">        <svg height="16" class="octicon octicon-star v-align-text-bottom" vertical_align="text_bottom" viewBox="0 0 14 16" version="1.1" width="14" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"></path></svg>
 
         Star
 </button>        <a class="social-count js-social-count" href="/lordedem/JAVA/stargazers"
@@ -843,8 +847,8 @@
   </li>
 
   <li>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="btn-with-count" action="/lordedem/JAVA/fork" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="UgWCqyNx8zpbPOkZcaRgY2Fk4jsrHaNPGhphCvPV0AjIkBFD+hPgWiN3xQPKW09IcIE2Qo+Ri98BRmntoJ2WiQ==" />
-            <button class="btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:262640675,&quot;originating_url&quot;:&quot;https://github.com/lordedem/JAVA/blob/master/rectangle.java&quot;,&quot;user_id&quot;:62627612}}" data-hydro-click-hmac="03b2e5e0b841b5cc0f0a9fc71dbc88e5ecf7213334a869074b10039b68cc2b98" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" type="submit" title="Fork your own copy of lordedem/JAVA to your account" aria-label="Fork your own copy of lordedem/JAVA to your account">              <svg class="octicon octicon-repo-forked v-align-text-bottom" viewBox="0 0 10 16" version="1.1" width="10" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 00-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 002 1a1.993 1.993 0 00-1 3.72V6.5l3 3v1.78A1.993 1.993 0 005 15a1.993 1.993 0 001-3.72V9.5l3-3V4.72A1.993 1.993 0 008 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"></path></svg>
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="btn-with-count" action="/lordedem/JAVA/fork" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="UqIxcGUcx/cDb6os4Uo7RJg95skhDqqrx/QeARSTv+rIN6KYvH7Ul3skhjZatRRvidgysIWCgjvcqBbmR9v5aw==" />
+            <button class="btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:262640675,&quot;originating_url&quot;:&quot;https://github.com/lordedem/JAVA/blob/master/Carre.java&quot;,&quot;user_id&quot;:62627612}}" data-hydro-click-hmac="ae676781e32041ab89f34ccb94ee48425e9610dccfe54d590905177a083618fb" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" type="submit" title="Fork your own copy of lordedem/JAVA to your account" aria-label="Fork your own copy of lordedem/JAVA to your account">              <svg class="octicon octicon-repo-forked v-align-text-bottom" viewBox="0 0 10 16" version="1.1" width="10" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 00-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 002 1a1.993 1.993 0 00-1 3.72V6.5l3 3v1.78A1.993 1.993 0 005 15a1.993 1.993 0 001-3.72V9.5l3-3V4.72A1.993 1.993 0 008 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"></path></svg>
               Fork
 </button></form>
     <a href="/lordedem/JAVA/network/members" class="social-count"
@@ -1000,9 +1004,9 @@
   
 
 
-    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/lordedem/JAVA/blob/7ed3f32fb23d675a740b74eaf3a0962237f4aa3f/rectangle.java">Permalink</a>
+    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/lordedem/JAVA/blob/7ed3f32fb23d675a740b74eaf3a0962237f4aa3f/Carre.java">Permalink</a>
 
-    <!-- blob contrib key: blob_contributors:v22:5d3a9efe9a1e9c5cf5cb354a163ff56f -->
+    <!-- blob contrib key: blob_contributors:v22:4b60aa5239aefeee73b9a08063ec30c2 -->
     
 
     <div class="d-flex flex-items-start flex-shrink-0 flex-column flex-md-row pb-3">
@@ -1017,7 +1021,7 @@
     <span class="dropdown-caret"></span>
   </summary>
 
-  <details-menu class="SelectMenu SelectMenu--hasFilter" src="/lordedem/JAVA/refs/master/rectangle.java?source_action=show&amp;source_controller=blob" preload>
+  <details-menu class="SelectMenu SelectMenu--hasFilter" src="/lordedem/JAVA/refs/master/Carre.java?source_action=show&amp;source_controller=blob" preload>
     <div class="SelectMenu-modal">
       <include-fragment class="SelectMenu-loading" aria-label="Menu is loading">
         <svg class="octicon octicon-octoface anim-pulse" height="32" viewBox="0 0 16 16" version="1.1" width="32" aria-hidden="true"><path fill-rule="evenodd" d="M14.7 5.34c.13-.32.55-1.59-.13-3.31 0 0-1.05-.33-3.44 1.3-1-.28-2.07-.32-3.13-.32s-2.13.04-3.13.32c-2.39-1.64-3.44-1.3-3.44-1.3-.68 1.72-.26 2.99-.13 3.31C.49 6.21 0 7.33 0 8.69 0 13.84 3.33 15 7.98 15S16 13.84 16 8.69c0-1.36-.49-2.48-1.3-3.35zM8 14.02c-3.3 0-5.98-.15-5.98-3.35 0-.76.38-1.48 1.02-2.07 1.07-.98 2.9-.46 4.96-.46 2.07 0 3.88-.52 4.96.46.65.59 1.02 1.3 1.02 2.07 0 3.19-2.68 3.35-5.98 3.35zM5.49 9.01c-.66 0-1.2.8-1.2 1.78s.54 1.79 1.2 1.79c.66 0 1.2-.8 1.2-1.79s-.54-1.78-1.2-1.78zm5.02 0c-.66 0-1.2.79-1.2 1.78s.54 1.79 1.2 1.79c.66 0 1.2-.8 1.2-1.79s-.53-1.78-1.2-1.78z"></path></svg>
@@ -1033,15 +1037,15 @@
                 data-hotkey="t">
             Find file
           </a>
-          <clipboard-copy value="rectangle.java" class="btn btn-sm BtnGroup-item">
+          <clipboard-copy value="Carre.java" class="btn btn-sm BtnGroup-item">
             Copy path
           </clipboard-copy>
         </div>
       </span>
       <h2 id="blob-path" class="breadcrumb flex-auto min-width-0 text-normal flex-md-self-center ml-md-2 mr-md-3 my-2 my-md-0">
-        <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="true" href="/lordedem/JAVA"><span>JAVA</span></a></span></span><span class="separator">/</span><strong class="final-path">rectangle.java</strong>
+        <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="true" href="/lordedem/JAVA"><span>JAVA</span></a></span></span><span class="separator">/</span><strong class="final-path">Carre.java</strong>
           <span class="separator">/</span><details class="details-reset details-overlay d-inline" id="jumpto-symbol-select-menu">
-  <summary class="btn-link link-gray css-truncate" aria-haspopup="true" data-hotkey="r" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.click_on_blob_definitions&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;click_on_blob_definitions&quot;,&quot;repository_id&quot;:262640675,&quot;ref&quot;:&quot;master&quot;,&quot;language&quot;:&quot;Java&quot;,&quot;originating_url&quot;:&quot;https://github.com/lordedem/JAVA/blob/master/rectangle.java&quot;,&quot;user_id&quot;:62627612}}" data-hydro-click-hmac="f9af966db5a9c93f21616bd198b71f90b67b8d72ad51b2a9981087f64f0f76fd">
+  <summary class="btn-link link-gray css-truncate" aria-haspopup="true" data-hotkey="r" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.click_on_blob_definitions&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;click_on_blob_definitions&quot;,&quot;repository_id&quot;:262640675,&quot;ref&quot;:&quot;master&quot;,&quot;language&quot;:&quot;Java&quot;,&quot;originating_url&quot;:&quot;https://github.com/lordedem/JAVA/blob/master/Carre.java&quot;,&quot;user_id&quot;:62627612}}" data-hydro-click-hmac="62c4f0a50ef7732e20f6db1c90d0b563d7f75cbbd6c642e9b8886bacf2d13549">
       <svg class="octicon octicon-code" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M9.5 3L8 4.5 11.5 8 8 11.5 9.5 13 14 8 9.5 3zm-5 0L0 8l4.5 5L6 11.5 2.5 8 6 4.5 4.5 3z"></path></svg>
     <span data-menu-button>Jump to</span>
     <span class="dropdown-caret"></span>
@@ -1082,7 +1086,7 @@
               data-hotkey="t">
           Find file
         </a>
-        <clipboard-copy value="rectangle.java" class="btn btn-sm BtnGroup-item">
+        <clipboard-copy value="Carre.java" class="btn btn-sm BtnGroup-item">
           Copy path
         </clipboard-copy>
       </div>
@@ -1090,7 +1094,7 @@
 
 
 
-    <include-fragment src="/lordedem/JAVA/contributors/master/rectangle.java" class="Box Box--condensed commit-loader">
+    <include-fragment src="/lordedem/JAVA/contributors/master/Carre.java" class="Box Box--condensed commit-loader">
       <div class="Box-body bg-blue-light f6">
         Fetching contributors&hellip;
       </div>
@@ -1111,17 +1115,17 @@
 <div class="Box-header py-2 d-flex flex-column flex-shrink-0 flex-md-row flex-md-items-center">
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1 mt-2 mt-md-0">
 
-      43 lines (30 sloc)
+      23 lines (14 sloc)
       <span class="file-info-divider"></span>
-    1.41 KB
+    501 Bytes
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between">
 
     <div class="BtnGroup">
-      <a id="raw-url" class="btn btn-sm BtnGroup-item" href="/lordedem/JAVA/raw/master/rectangle.java">Raw</a>
-        <a class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b" href="/lordedem/JAVA/blame/master/rectangle.java">Blame</a>
-      <a rel="nofollow" class="btn btn-sm BtnGroup-item" href="/lordedem/JAVA/commits/master/rectangle.java">History</a>
+      <a id="raw-url" class="btn btn-sm BtnGroup-item" href="/lordedem/JAVA/raw/master/Carre.java">Raw</a>
+        <a class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b" href="/lordedem/JAVA/blame/master/Carre.java">Blame</a>
+      <a rel="nofollow" class="btn btn-sm BtnGroup-item" href="/lordedem/JAVA/commits/master/Carre.java">History</a>
     </div>
 
 
@@ -1134,13 +1138,13 @@
               <svg class="octicon octicon-device-desktop" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M15 2H1c-.55 0-1 .45-1 1v9c0 .55.45 1 1 1h5.34c-.25.61-.86 1.39-2.34 2h8c-1.48-.61-2.09-1.39-2.34-2H15c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm0 9H1V3h14v8z"></path></svg>
           </a>
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/lordedem/JAVA/edit/master/rectangle.java" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="90psQN2ZQOzRAspUE3kQUcH2AsrB3ZM/9Cza3afrOeYRNkYtSpg136nRWmhN3o38Amq1Hsk//avPdUBOkPcwcQ==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/lordedem/JAVA/edit/master/Carre.java" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="BXDBRYuqBdMIDgvaHe00tFsgzE7tO6orgIGGgwdNfGba2BbokGp/OJDiC/5ile5gcMhvFxRHPvPb3CDhJgFkeQ==" />
             <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this project and edit the file" data-hotkey="e" data-disable-with>
               <svg class="octicon octicon-pencil" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M0 12v3h3l8-8-3-3-8 8zm3 2H1v-2h1v1h1v1zm10.3-9.3L12 6 9 3l1.3-1.3a.996.996 0 011.41 0l1.59 1.59c.39.39.39 1.02 0 1.41z"></path></svg>
             </button>
 </form>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/lordedem/JAVA/delete/master/rectangle.java" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="dMinli0SpT9Y4HRHGKTesfRhbinMKjvpySEJGA6jHtlLr/G/V5CzVddJo8JMerlhiNiXapAZYTREOf1WKp6YJw==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/lordedem/JAVA/delete/master/Carre.java" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="HHPb5AagsU16Byp7ZGpVmVIB4Pm5MHduSYHWDzJ1XkSIoA3oXLcF2Ajx/VlHWvCPLlSD2b+ufrHbauOqfZplow==" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this project and delete the file" data-disable-with>
               <svg class="octicon octicon-trashcan" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11 2H9c0-.55-.45-1-1-1H5c-.55 0-1 .45-1 1H2c-.55 0-1 .45-1 1v1c0 .55.45 1 1 1v9c0 .55.45 1 1 1h7c.55 0 1-.45 1-1V5c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm-1 12H3V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9zm1-10H2V3h9v1z"></path></svg>
@@ -1158,23 +1162,24 @@
 <table class="highlight tab-size js-file-line-container" data-tab-size="8" data-paste-markdown-skip>
       <tr>
         <td id="L1" class="blob-num js-line-number" data-line-number="1"></td>
-        <td id="LC1" class="blob-code blob-code-inner js-file-line"><span class="pl-k">public</span> <span class="pl-k">class</span> <span class="pl-en">Rectangle</span> <span class="pl-k">extends</span> <span class="pl-e">Figure</span>{</td>
+        <td id="LC1" class="blob-code blob-code-inner js-file-line"><span class="pl-k">public</span> <span class="pl-k">class</span> <span class="pl-en">Carre</span> <span class="pl-k">extends</span> <span class="pl-e">Figure</span>{</td>
       </tr>
       <tr>
         <td id="L2" class="blob-num js-line-number" data-line-number="2"></td>
-        <td id="LC2" class="blob-code blob-code-inner js-file-line">     </td>
+        <td id="LC2" class="blob-code blob-code-inner js-file-line">	</td>
       </tr>
       <tr>
         <td id="L3" class="blob-num js-line-number" data-line-number="3"></td>
-        <td id="LC3" class="blob-code blob-code-inner js-file-line">           <span class="pl-c"><span class="pl-c">//</span>Attributs Instances</span></td>
+        <td id="LC3" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">public</span> <span class="pl-en">Carre</span>(<span class="pl-k">double</span> <span class="pl-v">longueur</span>){</td>
       </tr>
       <tr>
         <td id="L4" class="blob-num js-line-number" data-line-number="4"></td>
-        <td id="LC4" class="blob-code blob-code-inner js-file-line">            <span class="pl-k">private</span> <span class="pl-k">double</span> largeur; </td>
+        <td id="LC4" class="blob-code blob-code-inner js-file-line">
+</td>
       </tr>
       <tr>
         <td id="L5" class="blob-num js-line-number" data-line-number="5"></td>
-        <td id="LC5" class="blob-code blob-code-inner js-file-line">          <span class="pl-c"><span class="pl-c">//</span>Attributs classe ou Attributs static</span></td>
+        <td id="LC5" class="blob-code blob-code-inner js-file-line">	<span class="pl-c1">this</span><span class="pl-k">.</span>longueur<span class="pl-k">=</span>longueur</td>
       </tr>
       <tr>
         <td id="L6" class="blob-num js-line-number" data-line-number="6"></td>
@@ -1183,152 +1188,76 @@
       </tr>
       <tr>
         <td id="L7" class="blob-num js-line-number" data-line-number="7"></td>
-        <td id="LC7" class="blob-code blob-code-inner js-file-line">            <span class="pl-c"><span class="pl-c">//</span>Constructeur =&gt; methode instance concrete</span></td>
+        <td id="LC7" class="blob-code blob-code-inner js-file-line">}</td>
       </tr>
       <tr>
         <td id="L8" class="blob-num js-line-number" data-line-number="8"></td>
-        <td id="LC8" class="blob-code blob-code-inner js-file-line">              <span class="pl-k">public</span> <span class="pl-en">Rectangle</span>(<span class="pl-k">double</span> <span class="pl-v">longueur</span>,<span class="pl-k">double</span> <span class="pl-v">largeur</span>){</td>
-      </tr>
-      <tr>
-        <td id="L9" class="blob-num js-line-number" data-line-number="9"></td>
-        <td id="LC9" class="blob-code blob-code-inner js-file-line">                        </td>
-      </tr>
-      <tr>
-        <td id="L10" class="blob-num js-line-number" data-line-number="10"></td>
-        <td id="LC10" class="blob-code blob-code-inner js-file-line">                          <span class="pl-c1">this</span><span class="pl-k">.</span>longueur<span class="pl-k">=</span>longueur;</td>
-      </tr>
-      <tr>
-        <td id="L11" class="blob-num js-line-number" data-line-number="11"></td>
-        <td id="LC11" class="blob-code blob-code-inner js-file-line">                        </td>
-      </tr>
-      <tr>
-        <td id="L12" class="blob-num js-line-number" data-line-number="12"></td>
-        <td id="LC12" class="blob-code blob-code-inner js-file-line">                       </td>
-      </tr>
-      <tr>
-        <td id="L13" class="blob-num js-line-number" data-line-number="13"></td>
-        <td id="LC13" class="blob-code blob-code-inner js-file-line">                          <span class="pl-c1">this</span><span class="pl-k">.</span>largeur<span class="pl-k">=</span>largeur;</td>
-      </tr>
-      <tr>
-        <td id="L14" class="blob-num js-line-number" data-line-number="14"></td>
-        <td id="LC14" class="blob-code blob-code-inner js-file-line">                        </td>
-      </tr>
-      <tr>
-        <td id="L15" class="blob-num js-line-number" data-line-number="15"></td>
-        <td id="LC15" class="blob-code blob-code-inner js-file-line">              }</td>
-      </tr>
-      <tr>
-        <td id="L16" class="blob-num js-line-number" data-line-number="16"></td>
-        <td id="LC16" class="blob-code blob-code-inner js-file-line">               </td>
-      </tr>
-      <tr>
-        <td id="L17" class="blob-num js-line-number" data-line-number="17"></td>
-        <td id="LC17" class="blob-code blob-code-inner js-file-line">              <span class="pl-c"><span class="pl-c">//</span>Getters  methodes instances concretes</span></td>
-      </tr>
-      <tr>
-        <td id="L18" class="blob-num js-line-number" data-line-number="18"></td>
-        <td id="LC18" class="blob-code blob-code-inner js-file-line">           </td>
-      </tr>
-      <tr>
-        <td id="L19" class="blob-num js-line-number" data-line-number="19"></td>
-        <td id="LC19" class="blob-code blob-code-inner js-file-line">              <span class="pl-k">public</span> <span class="pl-k">double</span> <span class="pl-en">getLargeur</span>(){</td>
-      </tr>
-      <tr>
-        <td id="L20" class="blob-num js-line-number" data-line-number="20"></td>
-        <td id="LC20" class="blob-code blob-code-inner js-file-line">                <span class="pl-k">return</span> <span class="pl-c1">this</span><span class="pl-k">.</span>largeur;</td>
-      </tr>
-      <tr>
-        <td id="L21" class="blob-num js-line-number" data-line-number="21"></td>
-        <td id="LC21" class="blob-code blob-code-inner js-file-line">             }</td>
-      </tr>
-      <tr>
-        <td id="L22" class="blob-num js-line-number" data-line-number="22"></td>
-        <td id="LC22" class="blob-code blob-code-inner js-file-line">             <span class="pl-c"><span class="pl-c">//</span>setters  methodes instances concretes</span></td>
-      </tr>
-      <tr>
-        <td id="L23" class="blob-num js-line-number" data-line-number="23"></td>
-        <td id="LC23" class="blob-code blob-code-inner js-file-line">              <span class="pl-k">public</span> <span class="pl-k">void</span> <span class="pl-en">setLargeur</span>(<span class="pl-k">double</span> <span class="pl-v">largeur</span>){</td>
-      </tr>
-      <tr>
-        <td id="L24" class="blob-num js-line-number" data-line-number="24"></td>
-        <td id="LC24" class="blob-code blob-code-inner js-file-line">                 <span class="pl-c1">this</span><span class="pl-k">.</span>largeur<span class="pl-k">=</span>largeur;</td>
-      </tr>
-      <tr>
-        <td id="L25" class="blob-num js-line-number" data-line-number="25"></td>
-        <td id="LC25" class="blob-code blob-code-inner js-file-line">              }</td>
-      </tr>
-      <tr>
-        <td id="L26" class="blob-num js-line-number" data-line-number="26"></td>
-        <td id="LC26" class="blob-code blob-code-inner js-file-line">             </td>
-      </tr>
-      <tr>
-        <td id="L27" class="blob-num js-line-number" data-line-number="27"></td>
-        <td id="LC27" class="blob-code blob-code-inner js-file-line">              <span class="pl-c"><span class="pl-c">//</span>Getters Setters  methodes static concretes</span></td>
-      </tr>
-      <tr>
-        <td id="L28" class="blob-num js-line-number" data-line-number="28"></td>
-        <td id="LC28" class="blob-code blob-code-inner js-file-line">            </td>
-      </tr>
-      <tr>
-        <td id="L29" class="blob-num js-line-number" data-line-number="29"></td>
-        <td id="LC29" class="blob-code blob-code-inner js-file-line">
+        <td id="LC8" class="blob-code blob-code-inner js-file-line">
 </td>
       </tr>
       <tr>
-        <td id="L30" class="blob-num js-line-number" data-line-number="30"></td>
-        <td id="LC30" class="blob-code blob-code-inner js-file-line">              <span class="pl-c"><span class="pl-c">//</span>metiers=&gt;UC</span></td>
+        <td id="L9" class="blob-num js-line-number" data-line-number="9"></td>
+        <td id="LC9" class="blob-code blob-code-inner js-file-line">		<span class="pl-k">public</span> <span class="pl-k">double</span> <span class="pl-en">demiPerimetre</span>(){</td>
       </tr>
       <tr>
-        <td id="L31" class="blob-num js-line-number" data-line-number="31"></td>
-        <td id="LC31" class="blob-code blob-code-inner js-file-line">              <span class="pl-c"><span class="pl-c">//</span>Redefinition</span></td>
+        <td id="L10" class="blob-num js-line-number" data-line-number="10"></td>
+        <td id="LC10" class="blob-code blob-code-inner js-file-line">                     <span class="pl-k">return</span> <span class="pl-c1">this</span><span class="pl-k">.</span>longueur<span class="pl-k">*</span><span class="pl-c1">2</span>;</td>
       </tr>
       <tr>
-        <td id="L32" class="blob-num js-line-number" data-line-number="32"></td>
-        <td id="LC32" class="blob-code blob-code-inner js-file-line">                <span class="pl-k">public</span> <span class="pl-k">double</span> <span class="pl-en">demiPerimetre</span>(){</td>
+        <td id="L11" class="blob-num js-line-number" data-line-number="11"></td>
+        <td id="LC11" class="blob-code blob-code-inner js-file-line">                }</td>
       </tr>
       <tr>
-        <td id="L33" class="blob-num js-line-number" data-line-number="33"></td>
-        <td id="LC33" class="blob-code blob-code-inner js-file-line">                     <span class="pl-k">return</span> <span class="pl-c1">this</span><span class="pl-k">.</span>longueur <span class="pl-k">+</span> <span class="pl-c1">this</span><span class="pl-k">.</span>largeur;</td>
+        <td id="L12" class="blob-num js-line-number" data-line-number="12"></td>
+        <td id="LC12" class="blob-code blob-code-inner js-file-line">              </td>
       </tr>
       <tr>
-        <td id="L34" class="blob-num js-line-number" data-line-number="34"></td>
-        <td id="LC34" class="blob-code blob-code-inner js-file-line">                }</td>
+        <td id="L13" class="blob-num js-line-number" data-line-number="13"></td>
+        <td id="LC13" class="blob-code blob-code-inner js-file-line">                <span class="pl-k">public</span> <span class="pl-k">double</span> <span class="pl-en">surface</span>(){</td>
       </tr>
       <tr>
-        <td id="L35" class="blob-num js-line-number" data-line-number="35"></td>
-        <td id="LC35" class="blob-code blob-code-inner js-file-line">              </td>
+        <td id="L14" class="blob-num js-line-number" data-line-number="14"></td>
+        <td id="LC14" class="blob-code blob-code-inner js-file-line">                  <span class="pl-k">return</span> <span class="pl-c1">this</span><span class="pl-k">.</span>longueur <span class="pl-k">*</span> <span class="pl-c1">this</span><span class="pl-k">.</span>longueur;</td>
       </tr>
       <tr>
-        <td id="L36" class="blob-num js-line-number" data-line-number="36"></td>
-        <td id="LC36" class="blob-code blob-code-inner js-file-line">                <span class="pl-k">public</span> <span class="pl-k">double</span> <span class="pl-en">surface</span>(){</td>
+        <td id="L15" class="blob-num js-line-number" data-line-number="15"></td>
+        <td id="LC15" class="blob-code blob-code-inner js-file-line">                }</td>
       </tr>
       <tr>
-        <td id="L37" class="blob-num js-line-number" data-line-number="37"></td>
-        <td id="LC37" class="blob-code blob-code-inner js-file-line">                  <span class="pl-k">return</span> <span class="pl-c1">this</span><span class="pl-k">.</span>longueur <span class="pl-k">*</span> <span class="pl-c1">this</span><span class="pl-k">.</span>largeur;</td>
+        <td id="L16" class="blob-num js-line-number" data-line-number="16"></td>
+        <td id="LC16" class="blob-code blob-code-inner js-file-line">                <span class="pl-k">public</span> <span class="pl-k">double</span> <span class="pl-en">diagonale</span>(){</td>
       </tr>
       <tr>
-        <td id="L38" class="blob-num js-line-number" data-line-number="38"></td>
-        <td id="LC38" class="blob-code blob-code-inner js-file-line">                }</td>
+        <td id="L17" class="blob-num js-line-number" data-line-number="17"></td>
+        <td id="LC17" class="blob-code blob-code-inner js-file-line">                  <span class="pl-k">return</span> <span class="pl-smi">Math</span><span class="pl-k">.</span>sqrt(<span class="pl-smi">Math</span><span class="pl-k">.</span>pow(<span class="pl-c1">this</span><span class="pl-k">.</span>longueur,<span class="pl-c1">2</span>)<span class="pl-k">+</span><span class="pl-smi">Math</span><span class="pl-k">.</span>pow(<span class="pl-c1">this</span><span class="pl-k">.</span>longueur,<span class="pl-c1">2</span>));</td>
       </tr>
       <tr>
-        <td id="L39" class="blob-num js-line-number" data-line-number="39"></td>
-        <td id="LC39" class="blob-code blob-code-inner js-file-line">                <span class="pl-k">public</span> <span class="pl-k">double</span> <span class="pl-en">diagonale</span>(){</td>
+        <td id="L18" class="blob-num js-line-number" data-line-number="18"></td>
+        <td id="LC18" class="blob-code blob-code-inner js-file-line">                }</td>
       </tr>
       <tr>
-        <td id="L40" class="blob-num js-line-number" data-line-number="40"></td>
-        <td id="LC40" class="blob-code blob-code-inner js-file-line">                  <span class="pl-k">return</span> <span class="pl-smi">Math</span><span class="pl-k">.</span>sqrt(<span class="pl-smi">Math</span><span class="pl-k">.</span>pow(<span class="pl-c1">this</span><span class="pl-k">.</span>longueur,<span class="pl-c1">2</span>)<span class="pl-k">+</span><span class="pl-smi">Math</span><span class="pl-k">.</span>pow(<span class="pl-c1">this</span><span class="pl-k">.</span>largeur,<span class="pl-c1">2</span>));</td>
+        <td id="L19" class="blob-num js-line-number" data-line-number="19"></td>
+        <td id="LC19" class="blob-code blob-code-inner js-file-line">
+</td>
       </tr>
       <tr>
-        <td id="L41" class="blob-num js-line-number" data-line-number="41"></td>
-        <td id="LC41" class="blob-code blob-code-inner js-file-line">                }</td>
+        <td id="L20" class="blob-num js-line-number" data-line-number="20"></td>
+        <td id="LC20" class="blob-code blob-code-inner js-file-line">
+</td>
       </tr>
       <tr>
-        <td id="L42" class="blob-num js-line-number" data-line-number="42"></td>
-        <td id="LC42" class="blob-code blob-code-inner js-file-line">              </td>
+        <td id="L21" class="blob-num js-line-number" data-line-number="21"></td>
+        <td id="LC21" class="blob-code blob-code-inner js-file-line">
+</td>
       </tr>
       <tr>
-        <td id="L43" class="blob-num js-line-number" data-line-number="43"></td>
-        <td id="LC43" class="blob-code blob-code-inner js-file-line">  }</td>
+        <td id="L22" class="blob-num js-line-number" data-line-number="22"></td>
+        <td id="LC22" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L23" class="blob-num js-line-number" data-line-number="23"></td>
+        <td id="LC23" class="blob-code blob-code-inner js-file-line">}</td>
       </tr>
 </table>
 
@@ -1348,7 +1277,7 @@
             Copy permalink
           </clipboard-copy>
         </li>
-        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/lordedem/JAVA/blame/7ed3f32fb23d675a740b74eaf3a0962237f4aa3f/rectangle.java">View git blame</a></li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/lordedem/JAVA/blame/7ed3f32fb23d675a740b74eaf3a0962237f4aa3f/Carre.java">View git blame</a></li>
           <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/lordedem/JAVA/issues/new">Reference in new issue</a></li>
       </ul>
     </details-menu>
@@ -1373,10 +1302,10 @@
      hidden
      data-tagsearch-url="/lordedem/JAVA/find-symbols"
      data-tagsearch-ref="master"
-     data-tagsearch-path="rectangle.java"
+     data-tagsearch-path="Carre.java"
      data-tagsearch-lang="Java"
-     data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.click_on_symbol&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;click_on_symbol&quot;,&quot;repository_id&quot;:262640675,&quot;ref&quot;:&quot;master&quot;,&quot;language&quot;:&quot;Java&quot;,&quot;originating_url&quot;:&quot;https://github.com/lordedem/JAVA/blob/master/rectangle.java&quot;,&quot;user_id&quot;:62627612}}"
-     data-hydro-click-hmac="04e6c047d8849458c48e81b1abed3310d821cf31f3515eab02e8142fc68c3d85">
+     data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.click_on_symbol&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;click_on_symbol&quot;,&quot;repository_id&quot;:262640675,&quot;ref&quot;:&quot;master&quot;,&quot;language&quot;:&quot;Java&quot;,&quot;originating_url&quot;:&quot;https://github.com/lordedem/JAVA/blob/master/Carre.java&quot;,&quot;user_id&quot;:62627612}}"
+     data-hydro-click-hmac="dc7aa509dcfd04d0d6c2c493b9db539c59fdefd275ef0d788614ace199c4c3d1">
   <div class="Popover-message Popover-message--large Popover-message--top-left TagsearchPopover mt-1 mb-4 mx-auto Box box-shadow-large">
     <div class="TagsearchPopover-content js-tagsearch-popover-content overflow-auto" style="will-change:transform;">
     </div>
